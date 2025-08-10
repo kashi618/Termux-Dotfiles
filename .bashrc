@@ -20,3 +20,5 @@ cd /storage/emulated/0/
 alias aids='aichat -s'
 alias ff='clear && fastfetch'
 alias systr='cd /storage/emulated/0'
+alias arch='proot-distro --user kashi'
+
